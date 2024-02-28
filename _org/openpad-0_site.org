@@ -1,0 +1,21 @@
+#+EXPORT_FILE_NAME: ../_posts/2000-01-01-openpad-0.md
+#+OPTIONS: toc:nil
+
+#+BEGIN_EXPORT markdown
+---
+title: Starting the OpenPad Project
+date: 2024-02-28
+tags:
+categories: Projects OpenPad
+---
+#+END_EXPORT
+
+This post marks the beginning of the OpenPad Project (name may change in the future), an Open-Source PC controller focused on personalization.
+With buttons, screens, faders, rotary knobs, and other input methods, anyone can create their own controller suited to their needs.
+You can have an OpenPad with only faders and a screen to monitor and control your PC audio, or a set of knobs and buttons to use on your editing software.
+From the hardware to the PC application, it will be fully Open-Source.
+
+One of the main motivations for this project is to use it as a learning tool for embedded systems development, it is a challenge to design and develop a HW and SW product with a modular nature.
+The ultimate goal is not to just have a vast choice of inputs and outputs, but also a choice between different microcontrollers.
+This is not just a learning tool for me, but it can be for other people as well, so feel free to give feedback and contribute to the project.
+In the next posts, the system architecture and dev environment bring-up will be explored.
